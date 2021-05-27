@@ -1,0 +1,5 @@
+coklat queen;20000;50;
+indomie goreng;3000;200;
+indomie;1000;200;
+milo;1000;2;
+denkow;5000;20;
