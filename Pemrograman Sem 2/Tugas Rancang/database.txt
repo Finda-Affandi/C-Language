@@ -1,2 +1,0 @@
-1;Nasi Goreng;9000;20;
-2;Goreng;3000;20;
